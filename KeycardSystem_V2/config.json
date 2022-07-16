@@ -1,0 +1,58 @@
+{
+    "KeycardDoor": [
+        {
+            "doorClassName": "land_evg_door_NWAF01",
+            "doorPosition": [
+                4815.824707,
+                340.897736,
+                9591.944336
+            ],
+            "doorRotation": [
+                -26.9997336,
+                0.0,
+                0.000000
+            ],
+            "autoCloseTime": 120.0,
+            "keycardToOpen": "evg_keycards_NWAF01",
+            "damageToKeycard": 50.0,
+            "enableSwipeSound": 1,
+            "enableCloseSound": 1
+        },
+		{
+            "doorClassName": "land_evg_door_NWAF02",
+            "doorPosition": [
+                4834.217773,
+                340.898376,
+                9556.449219
+            ],
+            "doorRotation": [
+                -26.999613,
+                0.0,
+                -0.000000
+            ],
+            "autoCloseTime": 120.0,
+            "keycardToOpen": "evg_keycards_NWAF02",
+            "damageToKeycard": 50.0,
+            "enableSwipeSound": 1,
+            "enableCloseSound": 1
+        },
+		{
+            "doorClassName": "land_evg_door_NWAF03",
+            "doorPosition": [
+                4854.812988,
+                340.933319,
+                9516.315430
+            ],
+            "doorRotation": [
+                153.000214,
+                0.0,
+                -0.000000
+            ],
+            "autoCloseTime": 120.0,
+            "keycardToOpen": "evg_keycards_NWAF03",
+            "damageToKeycard": 50.0,
+            "enableSwipeSound": 1,
+            "enableCloseSound": 1
+        }
+    ]
+}

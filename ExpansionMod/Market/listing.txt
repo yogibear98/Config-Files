@@ -1,0 +1,54 @@
+ Volume in drive C is Windows
+ Volume Serial Number is 2C83-56D0
+
+ Directory of C:\Servers\AbandondZ\ServerName\ExpansionMod\Market
+
+07/09/2022  07:43 PM    <DIR>          .
+07/09/2022  07:43 PM    <DIR>          ..
+07/08/2022  09:08 PM             6,161 AMMO.json
+07/08/2022  09:08 PM             2,500 ARMBANDS.json
+07/08/2022  03:17 PM             2,350 ARMOR.json
+07/08/2022  09:08 PM             4,412 ASSULT_RIFLES.json
+07/08/2022  06:01 PM             2,997 BACKPACKS.json
+07/09/2022  04:34 PM             2,268 BARTER.json
+07/08/2022  06:51 PM             5,121 BASEBUILDING.json
+07/08/2022  06:01 PM               727 BELTS.json
+07/08/2022  09:08 PM             3,393 BUTSTOCKS.json
+07/08/2022  08:30 PM             2,206 DRINKS.json
+07/09/2022  06:57 PM               431 EXCHANGE.json
+07/08/2022  08:49 PM             8,842 FLAGS.json
+07/08/2022  08:30 PM             5,971 FOOD.json
+07/08/2022  06:39 PM             1,617 GHILLIES.json
+07/08/2022  06:39 PM             3,198 GLASSES.json
+07/08/2022  06:39 PM             3,135 GLOVES.json
+07/08/2022  09:08 PM             1,810 GRENADES.json
+07/08/2022  09:08 PM             3,403 HANDGAURDS.json
+07/08/2022  08:54 PM             9,918 HARDWARE.json
+07/08/2022  06:39 PM            11,668 HATS_AND_HOODS.json
+07/08/2022  06:39 PM             8,972 HELMETS.json
+07/08/2022  06:39 PM             1,342 HOLSTERS_AND_POUCHES.json
+07/08/2022  06:39 PM            12,369 JACKETS_AND_COATS.json
+07/08/2022  09:08 PM             4,203 KNIFES.json
+07/08/2022  08:54 PM             3,939 LIGHTS.json
+07/09/2022  07:43 PM                 0 listing.txt
+07/08/2022  09:08 PM            12,239 MAGAZINES.json
+07/08/2022  06:39 PM             5,632 MASKS.json
+07/08/2022  08:32 PM             4,274 MEAT.json
+07/08/2022  08:32 PM             6,924 MEDICAL.json
+07/08/2022  09:08 PM             2,764 MELEE.json
+07/08/2022  06:39 PM             3,134 MILITARYHELMETS.json
+07/08/2022  09:08 PM             1,032 MUZZLES.json
+07/08/2022  09:08 PM             9,960 OPTICS.json
+07/08/2022  06:39 PM             8,566 PANTS.json
+07/08/2022  09:08 PM             3,650 PISTOLS.json
+07/08/2022  09:08 PM             4,024 RIFLES.json
+07/08/2022  06:39 PM             4,786 SHIRTS.json
+07/08/2022  06:39 PM            11,271 SHOES.json
+07/08/2022  09:08 PM             1,080 SHOTGUNS.json
+07/08/2022  09:08 PM             1,603 SNIPER_RIFLES.json
+07/08/2022  09:08 PM             2,858 SUBMACHINE_GUNS.json
+07/08/2022  06:39 PM             3,062 SWEATERS_AND_HOODIES.json
+07/08/2022  08:54 PM             8,574 TOOLS.json
+07/08/2022  03:17 PM             2,636 VESTS.json
+              45 File(s)        211,022 bytes
+               2 Dir(s)  105,009,041,408 bytes free

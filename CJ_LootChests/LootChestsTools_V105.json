@@ -1,0 +1,353 @@
+{
+    "LCTools": [
+        {
+            "name": "SledgeHammer",
+            "time": 5,
+            "dmg": 50,
+            "desc": ""
+        },
+        {
+            "name": "Crowbar",
+            "time": 30,
+            "dmg": 25,
+            "desc": ""
+        },
+        {
+            "name": "Lockpick",
+            "time": 1,
+            "dmg": 0,
+            "desc": ""
+        },
+		        {
+            "name": "CJ_Key1",
+            "time": 3,
+            "dmg": 15,
+            "desc": "Svetlojarsk Police Station Key|This Key will open Crates inside Svetlojarsk Police Station."
+        },
+        {
+            "name": "CJ_Key2",
+            "time": 3,
+            "dmg": 50,
+            "desc": "Berezino Police Station Key|This Key looks like it goes to a Police Station somewhere in Berezino. I wonder if it goes to both."
+        },
+        {
+            "name": "CJ_Key3",
+            "time": 3,
+            "dmg": 25,
+            "desc": "Chernogorsk Police Station|This Key looks like it goes to a Police Station somewhere in Chernogorsk."
+        },
+        {
+            "name": "CJ_Key4",
+            "time": 3,
+            "dmg": 25,
+            "desc": "Severograd Police Station|This Key looks like it goes to a Police Station somewhere in Severograd."
+        },
+        {
+            "name": "CJ_Key5",
+            "time": 3,
+            "dmg": 25,
+            "desc": "Gorka Police Station|This Key looks like it goes to a Police Station somewhere in Gorka."
+        },
+        {
+            "name": "CJ_Key6",
+            "time": 3,
+            "dmg": 15,
+            "desc": "Zelenogorsk Police Station|This Key looks like it goes to a Police Station somewhere Zelenogorsk."
+        },
+        {
+            "name": "CJ_Key7",
+            "time": 3,
+            "dmg": 15,
+            "desc": "Red Key|This Key will be opening Crates at the Tisy Military Base."
+        },
+        {
+            "name": "CJ_Key8",
+            "time": 3,
+            "dmg": 15,
+            "desc": ""
+        },
+        {
+            "name": "CJ_Key9",
+            "time": 3,
+            "dmg": 15,
+            "desc": ""
+        },
+        {
+            "name": "CJ_Key10",
+            "time": 3,
+            "dmg": 15,
+            "desc": ""
+        },
+        {
+            "name": "CJ_Key11",
+            "time": 3,
+            "dmg": 15,
+            "desc": ""
+        },
+        {
+            "name": "CJ_Key12",
+            "time": 3,
+            "dmg": 15,
+            "desc": ""
+        },
+			    {
+            "name": "CJ_Key13",
+            "time": 5,
+            "dmg": 100,
+            "desc": "A key|A very nice looking key, wonder where it leads"
+        },
+	    {
+            "name": "CJ_Key14",
+            "time": 5,
+            "dmg": 100,
+            "desc": "A key|A very nice looking key, wonder where it leads"
+        },
+	    {
+            "name": "CJ_Key15",
+            "time": 5,
+            "dmg": 100,
+            "desc": "A key|A very nice looking key, wonder where it leads"
+        },
+	    {
+            "name": "CJ_Key21",
+            "time": 5,
+            "dmg": 100,
+            "desc": "A key|A very nice looking key, wonder where it leads"
+        },
+	    {
+            "name": "CJ_Key22",
+            "time": 5,
+            "dmg": 100,
+            "desc": "A key|A very nice looking key, wonder where it leads"
+        },
+	    {
+            "name": "CJ_Key23",
+            "time": 5,
+            "dmg": 100,
+            "desc": "A key|A very nice looking key, wonder where it leads"
+        },
+	    {
+            "name": "CJ_Key24",
+            "time": 5,
+            "dmg": 100,
+            "desc": "A key|A very nice looking key, wonder where it leads"
+        },
+	    {
+            "name": "CJ_Key25",
+            "time": 5,
+            "dmg": 100,
+            "desc": "A key|A very nice looking key, wonder where it leads"
+        },
+	    {
+            "name": "CJ_Key26",
+            "time": 5,
+            "dmg": 100,
+            "desc": "A key|A very nice looking key, wonder where it leads"
+        },
+	    {
+            "name": "CJ_Key27",
+            "time": 5,
+            "dmg": 100,
+            "desc": "A key|A very nice looking key, wonder where it leads"
+        },
+	    {
+            "name": "CJ_Key28",
+            "time": 5,
+            "dmg": 100,
+            "desc": "A key|A very nice looking key, wonder where it leads"
+        },
+	    {
+            "name": "CJ_Key29",
+            "time": 5,
+            "dmg": 100,
+            "desc": "A key|A very nice looking key, wonder where it leads"
+        },
+	    {
+            "name": "CJ_Key30",
+            "time": 5,
+            "dmg": 100,
+            "desc": "A key|A very nice looking key, wonder where it leads"
+        },
+		
+	    {
+            "name": "CJ_Key31",
+            "time": 5,
+            "dmg": 100,
+            "desc": "A key|A very nice looking key, wonder where it leads"
+        },
+	    {
+            "name": "CJ_Key32",
+            "time": 5,
+            "dmg": 100,
+            "desc": "A key|A very nice looking key, wonder where it leads"
+        },
+	    {
+            "name": "CJ_Key33",
+            "time": 5,
+            "dmg": 100,
+            "desc": "A key|A very nice looking key, wonder where it leads"
+        },
+	    {
+            "name": "CJ_Key34",
+            "time": 5,
+            "dmg": 100,
+            "desc": "A key|A very nice looking key, wonder where it leads"
+        },
+	    {
+            "name": "CJ_Key35",
+            "time": 5,
+            "dmg": 100,
+            "desc": "A key|A very nice looking key, wonder where it leads"
+        },
+	    {
+            "name": "CJ_Key36",
+            "time": 5,
+            "dmg": 100,
+            "desc": "A key|A very nice looking key, wonder where it leads"
+        },
+	    {
+            "name": "CJ_Key37",
+            "time": 5,
+            "dmg": 100,
+            "desc": "A key|A very nice looking key, wonder where it leads"
+        },
+	    {
+            "name": "CJ_Key38",
+            "time": 5,
+            "dmg": 100,
+            "desc": "A key|A very nice looking key, wonder where it leads"
+        },
+	    {
+            "name": "CJ_Key39",
+            "time": 5,
+            "dmg": 100,
+            "desc": "A key|A very nice looking key, wonder where it leads"
+        },
+	    {
+            "name": "CJ_Key40",
+            "time": 5,
+            "dmg": 100,
+            "desc": "A key|A very nice looking key, wonder where it leads"
+        },
+	    {
+            "name": "CJ_Key41",
+            "time": 5,
+            "dmg": 100,
+            "desc": "A key|A very nice looking key, wonder where it leads"
+        },
+	    {
+            "name": "CJ_Key42",
+            "time": 5,
+            "dmg": 100,
+            "desc": "A key|A very nice looking key, wonder where it leads"
+        },
+	    {
+            "name": "CJ_Key43",
+            "time": 5,
+            "dmg": 100,
+            "desc": "A key|A very nice looking key, wonder where it leads"
+        },
+	    {
+            "name": "CJ_Key44",
+            "time": 5,
+            "dmg": 100,
+            "desc": "A key|A very nice looking key, wonder where it leads"
+        },
+	    {
+            "name": "CJ_Key45",
+            "time": 5,
+            "dmg": 100,
+            "desc": "A key|A very nice looking key, wonder where it leads"
+        },
+	    {
+            "name": "CJ_Key46",
+            "time": 5,
+            "dmg": 100,
+            "desc": "A key|A very nice looking key, wonder where it leads"
+        },
+	    {
+            "name": "CJ_Key47",
+            "time": 5,
+            "dmg": 100,
+            "desc": "A key|A very nice looking key, wonder where it leads"
+        },
+	    {
+            "name": "CJ_Key48",
+            "time": 5,
+            "dmg": 100,
+            "desc": "A key|A very nice looking key, wonder where it leads"
+        },
+	    {
+            "name": "CJ_Key49",
+            "time": 5,
+            "dmg": 100,
+            "desc": "A key|A very nice looking key, wonder where it leads"
+        },
+		{
+            "name": "CJ_Key50",
+            "time": 5,
+            "dmg": 100,
+            "desc": "A key|A very nice looking key, wonder where it leads"
+        },
+		{
+            "name": "CJ_Key51",
+            "time": 5,
+            "dmg": 100,
+            "desc": "A key|A very nice looking key, wonder where it leads"
+        },
+		{
+            "name": "CJ_Key52",
+            "time": 5,
+            "dmg": 100,
+            "desc": "A key|A very nice looking key, wonder where it leads"
+        },
+		{
+            "name": "CJ_Key53",
+            "time": 5,
+            "dmg": 100,
+            "desc": "A key|A very nice looking key, wonder where it leads"
+        },
+		{
+            "name": "CJ_Key54",
+            "time": 5,
+            "dmg": 100,
+            "desc": "A key|A very nice looking key, wonder where it leads"
+        },
+		{
+            "name": "CJ_Key55",
+            "time": 5,
+            "dmg": 100,
+            "desc": "A key|A very nice looking key, wonder where it leads"
+        },
+		{
+            "name": "CJ_Key56",
+            "time": 5,
+            "dmg": 100,
+            "desc": "A key|A very nice looking key, wonder where it leads"
+        },
+		{
+            "name": "CJ_Key57",
+            "time": 5,
+            "dmg": 100,
+            "desc": "A key|A very nice looking key, wonder where it leads"
+        },
+		{
+            "name": "CJ_Key58",
+            "time": 5,
+            "dmg": 100,
+            "desc": "A key|A very nice looking key, wonder where it leads"
+        },
+		{
+            "name": "CJ_Key59",
+            "time": 5,
+            "dmg": 100,
+            "desc": "A key|A very nice looking key, wonder where it leads"
+        },
+		{
+            "name": "CJ_Key60",
+            "time": 5,
+            "dmg": 100,
+            "desc": "A key|A very nice looking key, wonder where it leads"
+        }
+    ]
+}

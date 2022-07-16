@@ -1,0 +1,296 @@
+=========================Vanilla++ Admin Tools Session Logs=========================
+Logs Started: 2022-7-10_15-28-58
+====================================================================================
+15:28:58 | [PermissionManager] Perm (DeleteObjectAtCrosshair) has been registered!
+15:28:58 | [PermissionManager] Perm (TeleportToCrosshair) has been registered!
+15:28:58 | [PermissionManager] Perm (FreeCamera) has been registered!
+15:28:58 | [PermissionManager] Perm (RepairVehiclesAtCrosshair) has been registered!
+15:28:58 | [PermissionManager] Perm (MenuItemManager) has been registered!
+15:28:58 | [PermissionManager] Perm (MenuItemManager:SpawnItem) has been registered!
+15:28:58 | [PermissionManager] Perm (MenuItemManager:EditPreset) has been registered!
+15:28:58 | [PermissionManager] Perm (MenuItemManager:SpawnPreset) has been registered!
+15:28:58 | [PermissionManager] Perm (MenuItemManager:DeletePreset) has been registered!
+15:28:58 | [PermissionManager] Perm (MenuItemManager:AddPreset) has been registered!
+15:28:58 | [PermissionManager] Perm (MenuServerManager) has been registered!
+15:28:58 | [PermissionManager] Perm (ServerManager:RestartServer) has been registered!
+15:28:58 | [PermissionManager] Perm (ServerManager:LockServer) has been registered!
+15:28:58 | [PermissionManager] Perm (ServerManager:KickAllPlayers) has been registered!
+15:28:58 | [PermissionManager] Perm (ServerManager:LoadScripts) has been registered!
+15:28:58 | [PermissionManager] Perm (MenuWeatherManager) has been registered!
+15:28:58 | [PermissionManager] Perm (WeatherManager:ApplyWeather) has been registered!
+15:28:58 | [PermissionManager] Perm (WeatherManager:ApplyTime) has been registered!
+15:28:58 | [PermissionManager] Perm (WeatherManager:SavePreset) has been registered!
+15:28:58 | [PermissionManager] Perm (WeatherManager:DeletePreset) has been registered!
+15:28:58 | [PermissionManager] Perm (WeatherManager:ApplyPreset) has been registered!
+15:28:58 | [PermissionManager] Perm (WeatherManager:ApplyTimePreset) has been registered!
+15:28:58 | [PermissionManager] Perm (WeatherManager:SaveTimePreset) has been registered!
+15:28:58 | [PermissionManager] Perm (WeatherManager:DeleteTimePreset) has been registered!
+15:28:58 | [PermissionManager] Perm (MenuObjectManager) has been registered!
+15:28:58 | [PermissionManager] Perm (MenuObjectManager:CreateNewSet) has been registered!
+15:28:58 | [PermissionManager] Perm (MenuObjectManager:UpdateSet) has been registered!
+15:28:58 | [PermissionManager] Perm (MenuObjectManager:DeleteSet) has been registered!
+15:28:58 | [PermissionManager] Perm (MenuObjectManager:EditSet) has been registered!
+15:28:58 | [PermissionManager] Perm (MenuPermissionsEditor) has been registered!
+15:28:58 | [PermissionManager] Perm (PermissionsEditor:RemoveUser) has been registered!
+15:28:58 | [PermissionManager] Perm (PermissionsEditor:AddUser) has been registered!
+15:28:58 | [PermissionManager] Perm (PermissionsEditor:CreateUserGroup) has been registered!
+15:28:58 | [PermissionManager] Perm (PermissionsEditor:DeleteUserGroup) has been registered!
+15:28:58 | [PermissionManager] Perm (PermissionsEditor:ChangePermLevel) has been registered!
+15:28:58 | [PermissionManager] Perm (MenuPlayerManager) has been registered!
+15:28:58 | [PermissionManager] Perm (PlayerManager:GiveGodmode) has been registered!
+15:28:58 | [PermissionManager] Perm (PlayerManager:BanPlayer) has been registered!
+15:28:58 | [PermissionManager] Perm (PlayerManager:KickPlayer) has been registered!
+15:28:58 | [PermissionManager] Perm (PlayerManager:HealPlayers) has been registered!
+15:28:58 | [PermissionManager] Perm (PlayerManager:SetPlayerStats) has been registered!
+15:28:58 | [PermissionManager] Perm (PlayerManager:KillPlayers) has been registered!
+15:28:58 | [PermissionManager] Perm (PlayerManager:GodMode) has been registered!
+15:28:58 | [PermissionManager] Perm (PlayerManager:SpectatePlayer) has been registered!
+15:28:58 | [PermissionManager] Perm (PlayerManager:TeleportToPlayer) has been registered!
+15:28:58 | [PermissionManager] Perm (PlayerManager:TeleportPlayerTo) has been registered!
+15:28:58 | [PermissionManager] Perm (PlayerManager:SetPlayerInvisible) has been registered!
+15:28:58 | [PermissionManager] Perm (PlayerManager:SendMessage) has been registered!
+15:28:58 | [PermissionManager] Perm (PlayerManager:GiveUnlimitedAmmo) has been registered!
+15:28:58 | [PermissionManager] Perm (PlayerManager:MakePlayerVomit) has been registered!
+15:28:58 | [PermissionManager] Perm (PlayerManager:FreezePlayers) has been registered!
+15:28:58 | [PermissionManager] Perm (PlayerManager:ChangeScale) has been registered!
+15:28:58 | [PermissionManager] Perm (MenuBansManager) has been registered!
+15:28:58 | [PermissionManager] Perm (BansManager:UnbanPlayer) has been registered!
+15:28:58 | [PermissionManager] Perm (BansManager:UpdateBanDuration) has been registered!
+15:28:58 | [PermissionManager] Perm (BansManager:UpdateBanReason) has been registered!
+15:28:58 | [PermissionManager] Perm (MenuWebHooks) has been registered!
+15:28:58 | [PermissionManager] Perm (MenuWebHooks:Create) has been registered!
+15:28:58 | [PermissionManager] Perm (MenuWebHooks:Edit) has been registered!
+15:28:58 | [PermissionManager] Perm (MenuWebHooks:Delete) has been registered!
+15:28:58 | [PermissionManager] Perm (MenuTeleportManager) has been registered!
+15:28:58 | [PermissionManager] Perm (TeleportManager:ViewPlayerPositions) has been registered!
+15:28:58 | [PermissionManager] Perm (TeleportManager:TPPlayers) has been registered!
+15:28:58 | [PermissionManager] Perm (TeleportManager:TPSelf) has been registered!
+15:28:58 | [PermissionManager] Perm (TeleportManager:DeletePreset) has been registered!
+15:28:58 | [PermissionManager] Perm (TeleportManager:AddNewPreset) has been registered!
+15:28:58 | [PermissionManager] Perm (TeleportManager:EditPreset) has been registered!
+15:28:58 | [PermissionManager] Perm (EspToolsMenu) has been registered!
+15:28:58 | [PermissionManager] Perm (EspToolsMenu:DeleteObjects) has been registered!
+15:28:58 | [PermissionManager] Perm (EspToolsMenu:PlayerESP) has been registered!
+15:28:58 | [PermissionManager] Perm (EspToolsMenu:RestPasscodeFence) has been registered!
+15:28:58 | [PermissionManager] Perm (EspToolsMenu:RetriveCodeFromObj) has been registered!
+15:28:58 | [PermissionManager] Perm (EspToolsMenu:PlayerMeshEsp) has been registered!
+15:28:58 | [PermissionManager] Perm (EspToolsMenu:InstantBaseBuild) has been registered!
+15:28:58 | [PermissionManager] Perm (MenuXMLEditor) has been registered!
+15:28:58 | [PermissionManager] Perm (MenuCommandsConsole) has been registered!
+15:28:58 | [PermissionManager] Perm (Chat:StripPlayer) has been registered!
+15:28:58 | [PermissionManager] Perm (Chat:KillPlayer) has been registered!
+15:28:58 | [PermissionManager] Perm (Chat:HealPlayer) has been registered!
+15:28:58 | [PermissionManager] Perm (Chat:BringPlayer) has been registered!
+15:28:58 | [PermissionManager] Perm (Chat:ReturnPlayer) has been registered!
+15:28:58 | [PermissionManager] Perm (Chat:GotoPlayer) has been registered!
+15:28:58 | [PermissionManager] Perm (Chat:UnbanPlayer) has been registered!
+15:28:58 | [PermissionManager] Perm (Chat:TeleportToTown) has been registered!
+15:28:58 | [PermissionManager] Perm (Chat:TeleportToPoint) has been registered!
+15:28:58 | [PermissionManager] Perm (Chat:GiveAmmo) has been registered!
+15:28:58 | [PermissionManager] Perm (Chat:SpawnInventory) has been registered!
+15:28:58 | [PermissionManager] Perm (Chat:SpawnOnGround) has been registered!
+15:28:58 | [PermissionManager] Perm (Chat:SpawnInHands) has been registered!
+15:28:58 | [PermissionManager] Perm (Chat:SpawnCar) has been registered!
+15:28:58 | [PermissionManager] Perm (Chat:refuelCar) has been registered!
+15:28:58 | [PermissionManager] Adding Super Admin (76561199227453916)
+15:28:58 | [PermissionManager] Loaded UserGroups.json
+15:28:58 | Building Sets Loaded: 0
+15:28:58 | [TimeManager] Loading Json File $profile:VPPAdminTools/ConfigurablePlugins/TimeManager/TimeSettingsPresets.json
+15:28:58 | [BansManager]:: Load(): Loading ban list Json File $profile:VPPAdminTools/BanList.json
+15:28:58 | [WeatherManager] Loading Json File $profile:VPPAdminTools/ConfigurablePlugins/WeatherManager/WeatherSettingsPresets.json
+15:34:18 | Player "Joseph" (steamId=76561199227453916) connected to server!
+15:34:36 | Player "Joseph" (steamId=76561199227453916) connected to server!
+15:35:7 | "Joseph" (steamid=76561199227453916) Spawned Item: (TF_SCAR_Suppressor_Black)
+15:35:13 | "Joseph" (steamid=76561199227453916) Spawned Item: (TF_SCAR_H_FDE)
+15:35:19 | "Joseph" (steamid=76561199227453916) Spawned Item: (TF_Mag_SCAR_H_Drum50Rnd)
+15:35:20 | "Joseph" (steamid=76561199227453916) Spawned Item: (TF_Mag_SCAR_H_Drum50Rnd)
+15:35:20 | "Joseph" (steamid=76561199227453916) Spawned Item: (TF_Mag_SCAR_H_Drum50Rnd)
+15:35:21 | "Joseph" (steamid=76561199227453916) Spawned Item: (TF_Mag_SCAR_H_Drum50Rnd)
+15:36:59 | "Joseph" (steamid=76561199227453916) teleported to crosshair (pos=<4828.444336, 347.256805, 9566.246094>)
+15:37:0 | "Joseph" (steamid=76561199227453916) teleported to crosshair (pos=<4833.112793, 347.256805, 9557.447266>)
+15:39:16 | "Joseph" (steamid=76561199227453916) teleported to crosshair (pos=<4857.962891, 338.999969, 9596.065430>)
+15:39:16 | "Joseph" (steamid=76561199227453916) teleported to crosshair (pos=<4868.445801, 338.993622, 9585.751953>)
+15:39:16 | "Joseph" (steamid=76561199227453916) teleported to crosshair (pos=<4868.369141, 338.994171, 9585.773438>)
+15:39:16 | "Joseph" (steamid=76561199227453916) teleported to crosshair (pos=<4868.315430, 338.994568, 9585.789063>)
+15:39:16 | "Joseph" (steamid=76561199227453916) teleported to crosshair (pos=<4868.264160, 338.994904, 9585.802734>)
+15:39:16 | "Joseph" (steamid=76561199227453916) teleported to crosshair (pos=<4868.218750, 338.995209, 9585.806641>)
+15:39:16 | "Joseph" (steamid=76561199227453916) teleported to crosshair (pos=<4868.205078, 338.995300, 9585.734375>)
+15:39:16 | "Joseph" (steamid=76561199227453916) teleported to crosshair (pos=<4868.193359, 338.995392, 9585.671875>)
+15:39:16 | "Joseph" (steamid=76561199227453916) teleported to crosshair (pos=<4868.181152, 338.995483, 9585.610352>)
+15:39:16 | "Joseph" (steamid=76561199227453916) teleported to crosshair (pos=<4868.169434, 338.995514, 9585.547852>)
+15:39:16 | "Joseph" (steamid=76561199227453916) teleported to crosshair (pos=<4869.012695, 338.993225, 9584.501953>)
+15:39:16 | "Joseph" (steamid=76561199227453916) teleported to crosshair (pos=<4870.833008, 338.995605, 9582.327148>)
+15:39:16 | "Joseph" (steamid=76561199227453916) teleported to crosshair (pos=<4872.888184, 338.998199, 9579.879883>)
+15:39:16 | "Joseph" (steamid=76561199227453916) teleported to crosshair (pos=<4874.722168, 339.000000, 9577.706055>)
+15:39:16 | "Joseph" (steamid=76561199227453916) teleported to crosshair (pos=<4875.738770, 339.000000, 9576.420898>)
+15:39:16 | "Joseph" (steamid=76561199227453916) teleported to crosshair (pos=<4875.552734, 339.000031, 9576.393555>)
+15:39:16 | "Joseph" (steamid=76561199227453916) teleported to crosshair (pos=<4875.389648, 339.000000, 9576.371094>)
+15:39:16 | "Joseph" (steamid=76561199227453916) teleported to crosshair (pos=<4872.809570, 339.557587, 9579.723633>)
+15:39:16 | "Joseph" (steamid=76561199227453916) teleported to crosshair (pos=<4872.581055, 339.591248, 9579.855469>)
+15:39:16 | "Joseph" (steamid=76561199227453916) teleported to crosshair (pos=<4872.097168, 339.680939, 9580.293945>)
+15:39:16 | "Joseph" (steamid=76561199227453916) teleported to crosshair (pos=<4871.991699, 339.686737, 9580.246094>)
+15:39:16 | "Joseph" (steamid=76561199227453916) teleported to crosshair (pos=<4871.875000, 339.693085, 9580.191406>)
+15:39:16 | "Joseph" (steamid=76561199227453916) teleported to crosshair (pos=<4872.545898, 339.950104, 9579.647461>)
+15:39:16 | "Joseph" (steamid=76561199227453916) teleported to crosshair (pos=<4878.285645, 339.000000, 9571.395508>)
+15:39:16 | "Joseph" (steamid=76561199227453916) teleported to crosshair (pos=<4880.257813, 339.000031, 9568.912109>)
+15:39:16 | "Joseph" (steamid=76561199227453916) teleported to crosshair (pos=<4881.942871, 338.999939, 9566.786133>)
+15:39:16 | "Joseph" (steamid=76561199227453916) teleported to crosshair (pos=<4881.965820, 339.000031, 9566.711914>)
+15:39:16 | "Joseph" (steamid=76561199227453916) teleported to crosshair (pos=<4881.982422, 338.999969, 9566.658203>)
+15:39:16 | "Joseph" (steamid=76561199227453916) teleported to crosshair (pos=<4882.000977, 339.000000, 9566.597656>)
+15:39:16 | "Joseph" (steamid=76561199227453916) teleported to crosshair (pos=<4882.034668, 338.999939, 9566.216797>)
+15:39:16 | "Joseph" (steamid=76561199227453916) teleported to crosshair (pos=<4882.077637, 339.000031, 9565.577148>)
+15:39:16 | "Joseph" (steamid=76561199227453916) teleported to crosshair (pos=<4882.115723, 338.999969, 9564.932617>)
+15:39:16 | "Joseph" (steamid=76561199227453916) teleported to crosshair (pos=<4882.144043, 339.000031, 9564.359375>)
+15:39:16 | "Joseph" (steamid=76561199227453916) teleported to crosshair (pos=<4883.096680, 338.999969, 9563.013672>)
+15:39:16 | "Joseph" (steamid=76561199227453916) teleported to crosshair (pos=<4884.768555, 339.000000, 9560.935547>)
+15:39:16 | "Joseph" (steamid=76561199227453916) teleported to crosshair (pos=<4885.772949, 339.000000, 9559.689453>)
+15:39:16 | "Joseph" (steamid=76561199227453916) teleported to crosshair (pos=<4887.113770, 339.000000, 9558.029297>)
+15:39:16 | "Joseph" (steamid=76561199227453916) teleported to crosshair (pos=<4887.729980, 339.000000, 9556.964844>)
+15:39:16 | "Joseph" (steamid=76561199227453916) teleported to crosshair (pos=<4887.728516, 338.999969, 9556.603516>)
+15:39:16 | "Joseph" (steamid=76561199227453916) teleported to crosshair (pos=<4887.727051, 339.000000, 9556.278320>)
+15:39:16 | "Joseph" (steamid=76561199227453916) teleported to crosshair (pos=<4887.937012, 338.999969, 9555.706055>)
+15:39:16 | "Joseph" (steamid=76561199227453916) teleported to crosshair (pos=<4888.785156, 339.000000, 9554.282227>)
+15:39:16 | "Joseph" (steamid=76561199227453916) teleported to crosshair (pos=<4889.633301, 338.999939, 9552.858398>)
+15:39:16 | "Joseph" (steamid=76561199227453916) teleported to crosshair (pos=<4890.481445, 339.000000, 9551.436523>)
+15:39:16 | "Joseph" (steamid=76561199227453916) teleported to crosshair (pos=<4891.291992, 339.000000, 9550.056641>)
+15:39:16 | "Joseph" (steamid=76561199227453916) teleported to crosshair (pos=<4891.733887, 339.000000, 9549.081055>)
+15:39:16 | "Joseph" (steamid=76561199227453916) teleported to crosshair (pos=<4892.174316, 339.000031, 9548.105469>)
+15:39:16 | "Joseph" (steamid=76561199227453916) teleported to crosshair (pos=<4892.565430, 339.000031, 9547.239258>)
+15:39:16 | "Joseph" (steamid=76561199227453916) teleported to crosshair (pos=<4892.873535, 338.999969, 9546.500977>)
+15:39:16 | "Joseph" (steamid=76561199227453916) teleported to crosshair (pos=<4892.724121, 339.000000, 9546.373047>)
+15:39:16 | "Joseph" (steamid=76561199227453916) teleported to crosshair (pos=<4892.612793, 339.000000, 9546.282227>)
+15:39:16 | "Joseph" (steamid=76561199227453916) teleported to crosshair (pos=<4892.500000, 339.000000, 9546.190430>)
+15:39:16 | "Joseph" (steamid=76561199227453916) teleported to crosshair (pos=<4892.404785, 339.000000, 9546.101563>)
+15:39:16 | "Joseph" (steamid=76561199227453916) teleported to crosshair (pos=<4892.297363, 339.000000, 9545.951172>)
+15:39:16 | "Joseph" (steamid=76561199227453916) teleported to crosshair (pos=<4892.211914, 339.000000, 9545.834961>)
+15:39:16 | "Joseph" (steamid=76561199227453916) teleported to crosshair (pos=<4892.100098, 338.999969, 9545.688477>)
+15:39:16 | "Joseph" (steamid=76561199227453916) teleported to crosshair (pos=<4892.388184, 339.000000, 9544.809570>)
+15:39:16 | "Joseph" (steamid=76561199227453916) teleported to crosshair (pos=<4893.496094, 339.000000, 9542.468750>)
+15:39:16 | "Joseph" (steamid=76561199227453916) teleported to crosshair (pos=<4894.603027, 339.000000, 9540.130859>)
+15:39:16 | "Joseph" (steamid=76561199227453916) teleported to crosshair (pos=<4895.985840, 339.000031, 9537.208008>)
+15:39:16 | "Joseph" (steamid=76561199227453916) teleported to crosshair (pos=<4896.573242, 339.000031, 9535.797852>)
+15:39:16 | "Joseph" (steamid=76561199227453916) teleported to crosshair (pos=<4896.344238, 338.999969, 9535.626953>)
+15:39:16 | "Joseph" (steamid=76561199227453916) teleported to crosshair (pos=<4896.165527, 339.000000, 9535.496094>)
+15:39:16 | "Joseph" (steamid=76561199227453916) teleported to crosshair (pos=<4895.960938, 339.000000, 9535.345703>)
+15:39:16 | "Joseph" (steamid=76561199227453916) teleported to crosshair (pos=<4895.781738, 339.000000, 9535.213867>)
+15:39:16 | "Joseph" (steamid=76561199227453916) teleported to crosshair (pos=<4895.715820, 339.000000, 9535.151367>)
+15:39:16 | "Joseph" (steamid=76561199227453916) teleported to crosshair (pos=<4895.640625, 339.000000, 9535.079102>)
+15:39:16 | "Joseph" (steamid=76561199227453916) teleported to crosshair (pos=<4895.583008, 339.000031, 9535.024414>)
+15:39:17 | "Joseph" (steamid=76561199227453916) teleported to crosshair (pos=<4895.516113, 339.000000, 9534.962891>)
+15:39:17 | "Joseph" (steamid=76561199227453916) teleported to crosshair (pos=<4896.148926, 339.000031, 9532.885742>)
+15:39:17 | "Joseph" (steamid=76561199227453916) teleported to crosshair (pos=<4896.921875, 339.000031, 9530.401367>)
+15:39:17 | "Joseph" (steamid=76561199227453916) teleported to crosshair (pos=<4897.695313, 339.000000, 9527.919922>)
+15:39:17 | "Joseph" (steamid=76561199227453916) teleported to crosshair (pos=<4898.565430, 339.000000, 9525.128906>)
+15:39:17 | "Joseph" (steamid=76561199227453916) teleported to crosshair (pos=<4898.438965, 338.999969, 9524.341797>)
+15:39:17 | "Joseph" (steamid=76561199227453916) teleported to crosshair (pos=<4898.123047, 339.000000, 9524.053711>)
+15:39:17 | "Joseph" (steamid=76561199227453916) teleported to crosshair (pos=<4897.838867, 339.000031, 9523.796875>)
+15:39:17 | "Joseph" (steamid=76561199227453916) teleported to crosshair (pos=<4897.587402, 339.000000, 9523.571289>)
+15:39:17 | "Joseph" (steamid=76561199227453916) teleported to crosshair (pos=<4897.460938, 339.000000, 9523.476563>)
+15:39:17 | "Joseph" (steamid=76561199227453916) teleported to crosshair (pos=<4897.343750, 339.000000, 9523.396484>)
+15:39:17 | "Joseph" (steamid=76561199227453916) teleported to crosshair (pos=<4897.251465, 339.000000, 9523.335938>)
+15:39:17 | "Joseph" (steamid=76561199227453916) teleported to crosshair (pos=<4897.171875, 339.000031, 9523.283203>)
+15:39:17 | "Joseph" (steamid=76561199227453916) teleported to crosshair (pos=<4897.226563, 339.000031, 9522.758789>)
+15:39:17 | "Joseph" (steamid=76561199227453916) teleported to crosshair (pos=<4897.773438, 339.000000, 9520.408203>)
+15:39:17 | "Joseph" (steamid=76561199227453916) teleported to crosshair (pos=<4898.181152, 338.999969, 9518.643555>)
+15:39:17 | "Joseph" (steamid=76561199227453916) teleported to crosshair (pos=<4898.719727, 339.000000, 9516.288086>)
+15:39:17 | "Joseph" (steamid=76561199227453916) teleported to crosshair (pos=<4899.119141, 339.000000, 9514.519531>)
+15:39:17 | "Joseph" (steamid=76561199227453916) teleported to crosshair (pos=<4899.173828, 339.000000, 9513.254883>)
+15:39:17 | "Joseph" (steamid=76561199227453916) teleported to crosshair (pos=<4898.653809, 339.000000, 9512.762695>)
+15:39:17 | "Joseph" (steamid=76561199227453916) teleported to crosshair (pos=<4898.300293, 339.000000, 9512.430664>)
+15:39:17 | "Joseph" (steamid=76561199227453916) teleported to crosshair (pos=<4897.941895, 339.000000, 9512.098633>)
+15:39:17 | "Joseph" (steamid=76561199227453916) teleported to crosshair (pos=<4897.516113, 338.999969, 9511.708008>)
+15:39:17 | "Joseph" (steamid=76561199227453916) teleported to crosshair (pos=<4897.361816, 339.000000, 9510.997070>)
+15:39:17 | "Joseph" (steamid=76561199227453916) teleported to crosshair (pos=<4897.297363, 339.000031, 9509.784180>)
+15:39:17 | "Joseph" (steamid=76561199227453916) teleported to crosshair (pos=<4897.186523, 339.000031, 9507.961914>)
+15:39:17 | "Joseph" (steamid=76561199227453916) teleported to crosshair (pos=<4897.103516, 339.000031, 9506.744141>)
+15:39:17 | "Joseph" (steamid=76561199227453916) teleported to crosshair (pos=<4896.957031, 339.000031, 9505.625977>)
+15:39:17 | "Joseph" (steamid=76561199227453916) teleported to crosshair (pos=<4896.697266, 338.999969, 9503.870117>)
+15:39:17 | "Joseph" (steamid=76561199227453916) teleported to crosshair (pos=<4896.521484, 338.999969, 9502.705078>)
+15:39:17 | "Joseph" (steamid=76561199227453916) teleported to crosshair (pos=<4896.314453, 338.999969, 9501.346680>)
+15:39:17 | "Joseph" (steamid=76561199227453916) teleported to crosshair (pos=<4896.134766, 339.000000, 9500.189453>)
+15:39:17 | "Joseph" (steamid=76561199227453916) teleported to crosshair (pos=<4895.663086, 339.000000, 9499.185547>)
+15:39:17 | "Joseph" (steamid=76561199227453916) teleported to crosshair (pos=<4895.161133, 339.000000, 9498.219727>)
+15:39:17 | "Joseph" (steamid=76561199227453916) teleported to crosshair (pos=<4894.512695, 339.000000, 9496.978516>)
+15:39:17 | "Joseph" (steamid=76561199227453916) teleported to crosshair (pos=<4893.933105, 339.000000, 9495.876953>)
+15:39:17 | "Joseph" (steamid=76561199227453916) teleported to crosshair (pos=<4893.555664, 339.000000, 9495.406250>)
+15:39:17 | "Joseph" (steamid=76561199227453916) teleported to crosshair (pos=<4893.174805, 339.000000, 9495.267578>)
+15:39:17 | "Joseph" (steamid=76561199227453916) teleported to crosshair (pos=<4892.922852, 339.000000, 9495.175781>)
+15:39:18 | "Joseph" (steamid=76561199227453916) teleported to crosshair (pos=<4744.980957, 340.544861, 9545.077148>)
+15:39:18 | "Joseph" (steamid=76561199227453916) teleported to crosshair (pos=<4851.303223, 339.000000, 9505.025391>)
+15:39:18 | "Joseph" (steamid=76561199227453916) teleported to crosshair (pos=<4852.128418, 339.000000, 9504.701172>)
+15:39:18 | "Joseph" (steamid=76561199227453916) teleported to crosshair (pos=<4852.745117, 339.000031, 9504.458008>)
+15:39:18 | "Joseph" (steamid=76561199227453916) teleported to crosshair (pos=<4853.420898, 338.999969, 9504.189453>)
+15:39:18 | "Joseph" (steamid=76561199227453916) teleported to crosshair (pos=<4853.779785, 338.999969, 9504.054688>)
+15:39:18 | "Joseph" (steamid=76561199227453916) teleported to crosshair (pos=<4853.787598, 339.000031, 9504.071289>)
+15:39:18 | "Joseph" (steamid=76561199227453916) teleported to crosshair (pos=<4853.792969, 339.000000, 9504.086914>)
+15:39:18 | "Joseph" (steamid=76561199227453916) teleported to crosshair (pos=<4853.797852, 338.999969, 9504.101563>)
+15:39:18 | "Joseph" (steamid=76561199227453916) teleported to crosshair (pos=<4835.607422, 338.973083, 9511.219727>)
+15:39:18 | "Joseph" (steamid=76561199227453916) teleported to crosshair (pos=<4775.522949, 338.634033, 9535.048828>)
+15:39:18 | "Joseph" (steamid=76561199227453916) teleported to crosshair (pos=<4770.576660, 341.567749, 9533.346680>)
+15:39:18 | "Joseph" (steamid=76561199227453916) teleported to crosshair (pos=<4724.153809, 340.868256, 9552.037109>)
+15:39:18 | "Joseph" (steamid=76561199227453916) teleported to crosshair (pos=<4724.154297, 340.654327, 9552.061523>)
+15:39:18 | "Joseph" (steamid=76561199227453916) teleported to crosshair (pos=<4724.154785, 340.614075, 9552.216797>)
+15:39:18 | "Joseph" (steamid=76561199227453916) teleported to crosshair (pos=<4724.155273, 340.592896, 9552.308594>)
+15:39:18 | "Joseph" (steamid=76561199227453916) teleported to crosshair (pos=<4724.155762, 340.574615, 9552.387695>)
+15:39:18 | "Joseph" (steamid=76561199227453916) teleported to crosshair (pos=<4724.156250, 340.565948, 9552.423828>)
+15:39:18 | "Joseph" (steamid=76561199227453916) teleported to crosshair (pos=<4724.156250, 340.558289, 9552.456055>)
+15:39:18 | "Joseph" (steamid=76561199227453916) teleported to crosshair (pos=<4724.156738, 340.539764, 9552.525391>)
+15:39:18 | "Joseph" (steamid=76561199227453916) teleported to crosshair (pos=<4724.157227, 340.497437, 9552.652344>)
+15:39:18 | "Joseph" (steamid=76561199227453916) teleported to crosshair (pos=<4724.158203, 340.454834, 9552.781250>)
+15:39:18 | "Joseph" (steamid=76561199227453916) teleported to crosshair (pos=<4724.158691, 340.425873, 9552.867188>)
+15:39:18 | "Joseph" (steamid=76561199227453916) teleported to crosshair (pos=<4724.159180, 340.392212, 9552.956055>)
+15:39:18 | "Joseph" (steamid=76561199227453916) teleported to crosshair (pos=<4724.159668, 340.354095, 9553.056641>)
+15:39:18 | "Joseph" (steamid=76561199227453916) teleported to crosshair (pos=<4724.160156, 340.311615, 9553.168945>)
+15:39:18 | "Joseph" (steamid=76561199227453916) teleported to crosshair (pos=<4724.161133, 340.267029, 9553.322266>)
+15:39:18 | "Joseph" (steamid=76561199227453916) teleported to crosshair (pos=<4724.162109, 340.234680, 9553.461914>)
+15:39:18 | "Joseph" (steamid=76561199227453916) teleported to crosshair (pos=<4724.162598, 340.202057, 9553.604492>)
+15:39:18 | "Joseph" (steamid=76561199227453916) teleported to crosshair (pos=<4724.163574, 340.156586, 9553.753906>)
+15:39:18 | "Joseph" (steamid=76561199227453916) teleported to crosshair (pos=<4724.164551, 340.092529, 9553.898438>)
+15:39:18 | "Joseph" (steamid=76561199227453916) teleported to crosshair (pos=<4724.165039, 340.051819, 9553.988281>)
+15:39:18 | "Joseph" (steamid=76561199227453916) teleported to crosshair (pos=<4724.165039, 340.021332, 9554.038086>)
+15:39:18 | "Joseph" (steamid=76561199227453916) teleported to crosshair (pos=<4724.165527, 339.988251, 9554.093750>)
+15:39:18 | "Joseph" (steamid=76561199227453916) teleported to crosshair (pos=<4724.166016, 339.955688, 9554.153320>)
+15:39:18 | "Joseph" (steamid=76561199227453916) teleported to crosshair (pos=<4724.166016, 339.931458, 9554.203125>)
+15:39:18 | "Joseph" (steamid=76561199227453916) teleported to crosshair (pos=<4724.166504, 339.904236, 9554.259766>)
+15:39:20 | "Joseph" (steamid=76561199227453916) teleported to crosshair (pos=<5591.397461, 402.398621, 8874.929688>)
+15:39:20 | "Joseph" (steamid=76561199227453916) teleported to crosshair (pos=<6528.825195, 345.322479, 8296.218750>)
+15:39:20 | "Joseph" (steamid=76561199227453916) teleported to crosshair (pos=<6529.324707, 343.020233, 8297.236328>)
+15:39:21 | "Joseph" (steamid=76561199227453916) teleported to crosshair (pos=<6529.674805, 341.343689, 8297.984375>)
+15:39:21 | "Joseph" (steamid=76561199227453916) teleported to crosshair (pos=<6438.087402, 345.937775, 8355.110352>)
+15:39:21 | "Joseph" (steamid=76561199227453916) teleported to crosshair (pos=<6421.579102, 345.841705, 8365.902344>)
+15:39:21 | "Joseph" (steamid=76561199227453916) teleported to crosshair (pos=<6390.394531, 347.127869, 8385.001953>)
+15:39:21 | "Joseph" (steamid=76561199227453916) teleported to crosshair (pos=<6390.317383, 346.601593, 8385.047852>)
+15:39:21 | "Joseph" (steamid=76561199227453916) teleported to crosshair (pos=<6396.665039, 345.165283, 8381.151367>)
+15:39:21 | "Joseph" (steamid=76561199227453916) teleported to crosshair (pos=<6395.338379, 345.113007, 8381.796875>)
+15:39:21 | "Joseph" (steamid=76561199227453916) teleported to crosshair (pos=<6431.183105, 345.836823, 8358.492188>)
+15:39:21 | "Joseph" (steamid=76561199227453916) teleported to crosshair (pos=<6529.399902, 346.740662, 8295.740234>)
+15:39:22 | "Joseph" (steamid=76561199227453916) teleported to crosshair (pos=<6536.346191, 333.974426, 8290.063477>)
+15:39:23 | "Joseph" (steamid=76561199227453916) toggled freecam
+15:39:37 | "Joseph" (steamid=76561199227453916) teleported to crosshair (pos=<6350.327148, 330.946442, 8028.481445>)
+15:39:39 | "Joseph" (steamid=76561199227453916) toggled freecam
+15:39:55 | "Joseph": (steamid=76561199227453916) teleported to (pos=NWAF)
+15:40:10 | "Joseph": (steamid=76561199227453916) teleported to (pos=4883.5,0,9474.42)
+15:40:32 | "Joseph" (steamid=76561199227453916) teleported to crosshair (pos=<4853.440918, 339.801270, 9509.110352>)
+15:40:33 | "Joseph" (steamid=76561199227453916) teleported to crosshair (pos=<4853.487305, 340.943054, 9509.133789>)
+15:40:35 | "Joseph" (steamid=76561199227453916) teleported to crosshair (pos=<4852.851074, 339.150452, 9509.292969>)
+15:40:39 | "Joseph" (steamid=76561199227453916) teleported to crosshair (pos=<4853.119629, 339.667419, 9509.277344>)
+15:40:42 | "Joseph" (steamid=76561199227453916) teleported to crosshair (pos=<4853.073730, 339.667419, 9509.275391>)
+15:40:42 | "Joseph" (steamid=76561199227453916) teleported to crosshair (pos=<4853.007813, 339.667419, 9509.242188>)
+15:40:43 | "Joseph" (steamid=76561199227453916) teleported to crosshair (pos=<4852.877441, 340.296844, 9509.176758>)
+15:40:48 | "Joseph" (steamid=76561199227453916) teleported to crosshair (pos=<4856.837402, 340.300262, 9512.009766>)
+15:40:49 | "Joseph" (steamid=76561199227453916) teleported to crosshair (pos=<4856.775391, 340.297516, 9511.978516>)
+15:40:49 | "Joseph" (steamid=76561199227453916) teleported to crosshair (pos=<4856.738770, 341.205688, 9511.959961>)
+15:40:49 | "Joseph" (steamid=76561199227453916) teleported to crosshair (pos=<4856.659668, 343.062134, 9511.919922>)
+15:40:50 | "Joseph" (steamid=76561199227453916) teleported to crosshair (pos=<4856.542480, 343.438599, 9511.860352>)
+15:40:50 | "Joseph" (steamid=76561199227453916) teleported to crosshair (pos=<4856.484375, 344.816528, 9511.839844>)
+15:40:51 | "Joseph" (steamid=76561199227453916) teleported to crosshair (pos=<4856.419434, 345.514557, 9511.806641>)
+15:40:51 | "Joseph" (steamid=76561199227453916) teleported to crosshair (pos=<4856.346680, 346.408356, 9511.769531>)
+15:40:52 | "Joseph" (steamid=76561199227453916) teleported to crosshair (pos=<4856.289551, 346.714600, 9511.741211>)
+15:40:52 | "Joseph" (steamid=76561199227453916) teleported to crosshair (pos=<4856.226074, 349.776093, 9511.752930>)
+15:40:52 | "Joseph" (steamid=76561199227453916) teleported to crosshair (pos=<4856.115234, 352.446075, 9511.877930>)
+15:40:53 | "Joseph" (steamid=76561199227453916) teleported to crosshair (pos=<4937.633789, 1432.362427, 9310.244141>)
+15:40:55 | "Joseph" (steamid=76561199227453916) toggled godmode
+15:41:5 | "Joseph" (steamid=76561199227453916) teleported to crosshair (pos=<4877.489746, 339.474487, 9444.294922>)
+15:41:8 | "Joseph" (steamid=76561199227453916) teleported to crosshair (pos=<4862.577148, 339.523987, 9480.563477>)
+15:41:9 | "Joseph" (steamid=76561199227453916) teleported to crosshair (pos=<4851.083496, 339.980957, 9508.958008>)
+15:42:21 | Player "Joseph" (steamId=76561199227453916) disconnected from server.

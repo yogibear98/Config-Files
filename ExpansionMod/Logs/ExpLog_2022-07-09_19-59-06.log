@@ -1,0 +1,4 @@
+20:01:41 [Safezone] Player "Joseph" (id=z1pbeF0UvCxkhZvxh4L4w6ToYMNcls3G_jKuCGZOD1o= pos=<8062.090820, 458.862427, 9334.905273>) Entered the safezone
+20:01:41 [Expansion Quests] - SetupClientData - Created new persistent player quest data for player UID: z1pbeF0UvCxkhZvxh4L4w6ToYMNcls3G_jKuCGZOD1o=
+20:02:28 [Market] Player "Joseph" (id=z1pbeF0UvCxkhZvxh4L4w6ToYMNcls3G_jKuCGZOD1o=) has send a requested to purchase largetent x1 from the trader "BuildingSupplies (Niki [Building Supplies])" in market zone "Altar_Trader" (pos=<8080.000000, 460.000000, 9300.000000>).
+20:02:28 [Market] Player "Joseph" (id=z1pbeF0UvCxkhZvxh4L4w6ToYMNcls3G_jKuCGZOD1o=) has bought largetent x1 from the trader "BuildingSupplies (Niki [Building Supplies])" in market zone "Altar_Trader" (pos=<8080.000000, 460.000000, 9300.000000>) for a price of 6000.

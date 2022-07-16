@@ -1,0 +1,28 @@
+{
+    "m_Version": 8,
+    "DisplayName": "Weapons",
+    "TraderIcon": "Backpack",
+    "Currencies": [
+        "MoneyRuble"
+    ],
+    "Categories": [
+		"AMMO",
+		"ASSULT_RIFLES",
+		"BUTSTOCKS",
+		"GRENADES",
+        "HANDGAURDS",
+		"KNIFES",
+		"MAGAZINES",
+		"MELEE",
+        "MUZZLES",
+		"OPTICS",
+		"PISTOLS",
+		"RIFLES",
+		"SHOTGUNS",
+		"SNIPER_RIFLES"
+        "SUBMACHINE_GUNS"
+    ],
+    "Items": {
+        "battery9v": 3
+    }
+}
